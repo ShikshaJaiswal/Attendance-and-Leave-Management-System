@@ -60,4 +60,4 @@ insert into EmployeeDetails values('CAPG1018', 'Pranay Garg', 'Operations', '09/
 insert into EmployeeDetails values('CAPG1019', 'Akshat Saxena', 'Operations', '10/10/94', 'Lane19, Bhubhneshwar','CAPMGR105')
 insert into EmployeeDetails values('CAPG1020', 'Karan Bhatia', 'Operations', '12/12/93', 'Lane20, Mumbai','CAPMGR105')
 
-select * from EmployeeDetails
+
